@@ -2,7 +2,7 @@
   "dataProduct": [
     {
       "id": "XQ2P9F7J6V",
-      "image": "./public/images/img-1.jpg",
+      "image": "/public/images/img-1.jpg",
       "title": "Thiết kế Quảng Cáo, Tạo mẫu, In ấn, Bằng phần mềm",
       "description": "Sinh viên đam mê sáng tạo, mong muốn trở thành nhà thiết kế đồ họa chuyên nghiệp. Người đi làm muốn chuyển ngành sang lĩnh vực thiết kế hoặc nâng cao kỹ năng thiết kế hiện có. Chủ doanh nghiệp, cơ sở quảng cáo, in ấn, pano biển hiệu muốn tự tay thiết kế và kiểm soát sản phẩm của mình. Người làm trong ngành trang trí, tổ chức sự kiện, thiết kế phối cảnh công trình cần trang bị tư duy và kỹ năng thiết kế trực quan.Những ai đang muốn khởi nghiệp trong lĩnh vực sáng tạo và quảng cáo.",
       "price": 0,
@@ -15,7 +15,7 @@
     },
     {
       "id": "R1W8A0L3N5",
-      "image": "./public/images/img-2.webp",
+      "image": "/public/images/img-2.webp",
       "title": "Bitcoin for Businesses",
       "description": "Kickstart your company’s journey on the bitcoin network Discover the practical capabilities of the Bitcoin and Lightning Network, and explore how, much like the internet, they can transform your business operations. From digital capital to fast, economical, and scalable payments, Bitcoin offers a vast spectrum of use cases for businesses.",
       "price": 0,
@@ -28,7 +28,7 @@
     },
     {
       "id": "B7Y4C2M9K6",
-      "image": "./public/images/img-3.webp",
+      "image": "/public/images/img-3.webp",
       "title": "Building with Elements and Liquid Network",
       "description": "Build on Liquid and Elements Discover the advanced features and capabilities of Liquid and Elements, and learn how to effectively utilize these tools to enhance your development projects. This training provides a complete theoretical and practical foundation, enabling you to master features like Confidential Transactions, Issued Assets, and Federated Block Signing.",
       "price": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": "D5H1S8T0G3",
-      "image": "./public/images/img-4.webp",
+      "image": "/public/images/img-4.webp",
       "title": "Liquid Bootcamp Essentials",
       "description": "Introducing to the Liquid network Embark on an educational journey designed to provide a deep understanding of the Liquid Network and the Elements project. This bootcamp combines theory and practice to teach you the technical, architectural, and business fundamentals necessary to implement and leverage Liquid's capabilities. From confidential transactions to ecosystem design, this course is ideal for those looking to expand their knowledge of advanced tools within the Bitcoin ecosystem.",
       "price": 0,
@@ -52,7 +52,7 @@
     },
     {
       "id": "F9V6Z3J7X2",
-      "image": "./public/images/img-5.png",
+      "image": "/public/images/img-5.png",
       "title": "Procedural Python - Lập trình hàm trong Python",
       "description": "Tiếp nối các kiến thức đã học trong khóa Python cơ bản trước đó, khóa Lập trình hàm trong Python sẽ giúp bạn nắm bắt sơ lược các khái niệm về hàm, thực hành xây dựng, sử dụng hàm và thư viện hàm cũng như làm quen với thao tác đọc ghi các dạng tập tin văn bản trong hàm của Python. Đặc biệt, khóa Lập trình hàm trong Python tập trung vào tính thực tiễn của nội dung trong từng bài học, vì vậy người học sẽ được thực hành các bài lập trình thực tế xuyên suốt khóa học thông qua nền tảng lập trình tương tác trực tuyến",
       "price": 199999,
@@ -65,7 +65,7 @@
     },
     {
       "id": "P4N0Q1W8E5",
-      "image": "./public/images/img-6.png",
+      "image": "/public/images/img-6.png",
       "title": "Python Basics - Python Cơ Bản",
       "description": "thon là một ngôn ngữ lập trình bậc cao cho các mục đích lập trình đa năng. Python được thiết kế với ưu điểm mạnh là dễ đọc, dễ học và dễ nhớ. Python là ngôn ngữ có hình thức rất sáng sủa, cấu trúc rõ ràng, thuận tiện cho người mới học lập trình và là ngôn ngữ lập trình dễ học. Cấu trúc của Python còn cho phép người sử dụng viết mã lệnh với số lần gõ phím tối thiểu. Python vì vậy được dùng rộng rãi trong cộng đồng khoa học dữ liệu và đặc biệt là trong học máy và phát triển trí tuệ nhân tạo. Đến với khóa học này, các bạn sẽ được trang bị những kiến thức, kỹ năng và phương pháp lập trình sử dụng các tính năng cốt lõi của Python như cú pháp câu lệnh, biến và các kiểu dữ liệu cơ bản, vòng lặp, hàm dựng sẵn và nhiều tính năng khác. Đồng thời, các bạn sẽ tự tay viết và chạy chương trình của chính mình bằng những công cụ lập trình Python chuyên nghiệp như PyCharm và Google Colab.",
       "price": 199999,
@@ -78,7 +78,7 @@
     },
     {
       "id": "L2K7R5A9M3",
-      "image": "./public/images/img-7.png",
+      "image": "/public/images/img-7.png",
       "title": "Trở thành chuyên gia hòa âm cho bài hát cực đơn giản.",
       "description": "• Bạn không thể đặt hợp âm cho bài hát mặc dù đã tìm mọi cách • Bạn không biết vị trí nào của bài hát để đặt được hợp âm • Bạn không phân biệt được màu sắc của âm nhạc • Bạn không biết phải dùng hợp âm nào trong một mớ hợp âm • Bạn phải đi hỏi hợp âm hoặc tra trên mạng cho mỗi bài hát bạn chơi • Bạn chán nản không biết đặt hợp âm và không muốn chơi đàn nữa “ĐỪNG LO ĐÃ CÓ KHÓA HỌC ĐẶT HỢP ÂM KHÔNG CẦN NHẠC LÝ” Khóa học “Đặt hợp âm không cần nhạc lý” được thiết kế dành cho những ai mong muốn cải thiện khả năng đặt hợp âm của mình. Bạn sẽ đặt được hợp âm cho bất kỳ bài hát nào sau khi học xong khóa học. Chỉ cần dành 3 tiếng ngắn ngủi để học khóa học này bạn sẽ thay đổi mãi mãi. Không những thế bạn sẽ có khả năng hòa âm linh hoạt cho bài hát, sẽ có vài cách để hòa âm cho 1 bài hát cụ thể chứ không phải đóng khung một cách như lúc bạn đi hỏi hợp âm. Bạn sẽ sáng tạo không ngừng sau khi học xong khóa học này. “TẤT CẢ CHỈ CẦN KHÓA HỌC ĐẶT HỢP ÂM KHÔNG CẦN NHẠC LÝ” Khóa học được tổ chức thành 6",
       "price": 299000,
@@ -91,7 +91,7 @@
     },
     {
       "id": "C6B3D0F1H4",
-      "image": "./public/images/img-8.png",
+      "image": "/public/images/img-8.png",
       "title": "Học guitar đệm hát cấp tốc trong 30 ngày.",
       "description": "Khóa học gồm 5 cấp độ từ cơ bản tới nâng cao giúp bạn tự tin đệm guitar cho các bài hát mà mình yêu thích trong vòng 30 ngày hoặc nâng cao kỹ thuật đệm hát nếu bạn đã chơi guitar được một thời gian. Với những hướng dẫn cụ thể từ giảng viên, khóa học giúp bạn tiết kiệm thời gian và chi phí nhưng vẫn đảm bảo tính hiệu quả.",
       "price": 399000,
@@ -104,7 +104,7 @@
     },
     {
       "id": "G8J5T2S7V9",
-      "image": "./public/images/img-9.jpg",
+      "image": "/public/images/img-9.jpg",
       "title": "Luyện đề IELTS WRITING Task 1 Online.",
       "description": "Như bạn đã biết, IELTS là cuộc thi kiểm tra trình độ thông thạo Anh ngữ quan trọng và phổ biến nhất thế giới cho mục đích học tập, làm việc và định cư với hơn hai triệu thí sinh dự thi. Đặc biệt hiện nay IELTS đang dần được phổ cập vào nền giáo dục ở Việt Nam, học sinh có IELTS sẽ vô cùng lợi thế khi tham gia các kì thi quan trọng như THPT, Đại học. Hiểu được nhu cầu cần thiết của chứng chỉ IELTS và đặc biệt là nhu cầu học của tất cả các học viên trong cả nước đều muốn tìm nơi học được IELTS mà lại đảm bảo được chất lượng và cả chi phí, Trung Tâm Ngoại Ngữ TH (TH Education) ra đời với mục tiêu giúp cho các học sinh ở mọi miền đất nước và cả các học sinh Việt Nam ở nước ngoài có cơ hội tiếp cận với lộ trình học tiếng anh IELTS chuẩn Quốc tế. Đồng thời là bệ phóng ươm mầm ước mơ hội nhập toàn diện cho học sinh Việt Nam giúp học viên hướng tới TIẾNG ANH GIỎI TOÀN DIỆN cả 4 kỹ năng Nghe - Nói - Đọc - Viết. Với phương châm hoạt động “Learn to Change the World” TH EDUCATION luôn lấy học viên làm \"kim chỉ nam\" cho sự phát triển bền vững. Chúng tôi luôn đồng hành và sẵn sàng hỗ trợ học viên để đạt được mục tiêu mong muốn cuối cùng của học viên về IELTS. Vậy để đạt điểm số tốt trong kỳ thi IELTS, các bạn cần không chỉ một nền tảng tiếng Anh vững chắc mà còn phải xây dựng cho mình những chiến thuật làm bài riêng với từng kỹ năng đặc biệt là kỹ năng Writing. Đây có thể gọi là ác mộng kinh hoàng của 90% thí sinh. Chính vì thế, để đập tan cơn “ác mộng” cũng như biết cách chủ động ứng biến trong mọi tình huống đòi hỏi các bạn phải có sự va chạm nhiều với các dạng bài có trong đề, đồng thời nắm chắc những ý tưởng hoặc luận điểm mà bạn sẽ trình bày trong từng chủ điểm được đưa ra. Thấu hiểu được tầm quan trọng của việc luyện thi IELTS, TH EDUCATION với đội ngũ giảng viên dày dặn kinh nghiệm đã xuất bản khóa học Luyện đề IELTS Writing Task 1 Online.",
       "price": 499000,
@@ -117,7 +117,7 @@
     },
     {
       "id": "M1E4X0P3N6",
-      "image": "./public/images/img-10.jpg",
+      "image": "/public/images/img-10.jpg",
       "title": "Tiếng Hàn sơ cấp.",
       "description": "Bạn mới bắt đầu tìm hiểu về tiếng Hàn? Bạn muốn học tiếng Hàn nhưng chưa biết nên bắt đầu từ đâu? Hay bạn muốn học thêm tiếng Hàn nhưng không có thời gian để đến các trung tâm dạy tiếng? Vậy thì khóa học Tiếng Hàn sơ cấp này là dành cho bạn. Với những bài giảng chất lượng của EZ Language, bạn sẽ có thể nắm bắt được những điều cơ bản nhất của Tiếng Hàn. Với 28 bài giảng, bạn sẽ nhận được gì?  - Nắm được kiến thức cơ bản nhất về tiếng Hàn  - Học được cách phát âm chuẩn Hàn  - Có được từ vựng cơ bản thường sử dụng hàng ngày  - Học được những câu giao tiếp cơ bản nhất, thường dùng trong cuộc sống thường nhật. Hãy cùng bắt tay vào học thôi nào!",
       "price": 299000,
@@ -130,7 +130,7 @@
     },
     {
       "id": "A9Y6Z3C7B2",
-      "image": "./public/images/img-11.jpg",
+      "image": "/public/images/img-11.jpg",
       "title": "YOGA CHO BÀ BẦU - BÍ QUYẾT CHO MỘT THAI KỲ KHỎE MẠNH",
       "description": "Các bài tập từ cơ bản đến nâng cao phù hợp với tất cả các giai đoạn trong thai kỳ",
       "price": 449000,
@@ -143,7 +143,7 @@
     },
     {
       "id": "S5D2F8G1H3",
-      "image": "./public/images/img-12.png",
+      "image": "/public/images/img-12.png",
       "title": "Kiếm thụ động trên 30 triệu mỗi tháng bằng xây dựng khóa học online",
       "description": "Khóa học “Kiếm thụ động trên 30 triệu/ tháng bằng xây dựng khóa học online” được thiết kế sau khi đã khảo sát rất nhiều người. Đây là khóa học rất hiệu quả, chỉ cần bạn làm theo là sẽ tạo ra được khóa học và kiếm tiền thụ động ngay lập tức.",
       "price": 799000,
@@ -156,7 +156,7 @@
     },
     {
       "id": "V7X4Q0W9E6",
-      "image": "./public/images/img-13.jpg",
+      "image": "/public/images/img-13.jpg",
       "title": "Kinh doanh trên Shopee và cách quản lý",
       "description": "SSau khi kết thúc khóa học thì các bạn có thể tự tin kinh doanh luôn trên Shopee. - Khóa học là sự đúc rút kinh nghiệm 5 năm kinh doanh thực chiến của mình trên sàn thương mại điện tử. - Khóa học sẽ bao gồm các bài: 1/ Tạo gian hàng trên Shopee. 2/ Nghiên cứu bán sản phẩm nào hợp lý. 3/ Xây dựng gian hàng tiêu chuẩn. 4/ Marketing cho sản phẩm. 5/ Tính giá hợp lý cho sản phẩm. 6/ Nghiên cứu đối thủ và xây dựng gian hàng. 7/ Cách tìm nguồn hàng và vận chuyển hàng.",
       "price": 399000,
@@ -169,7 +169,7 @@
     },
     {
       "id": "J3K1L5M8N0",
-      "image": "./public/images/img-14.png",
+      "image": "/public/images/img-14.png",
       "title": "HỌC ORDER TAOBAO/1688/PINDUODUO - KHÔNG CẦN BIẾT TIẾNG TRUNG",
       "description": "Đặc điểm nổi bật của khóa học ORDER TAOBAO/1688/PIN KHÔNG CẦN BIẾT TIẾNG TRUNG. Sau khóa học bạn có thể chủ động TỰ NHẬP HÀNG TAOBAO/1688/PINDUODUO KHÔNG QUA TRUNG GIAN TỐI THIỂU CHI PHÍ NGUỒN HÀNG KINH DOANH. TIẾT KIỆM VÀI TRIỆU ĐẾN VÀI TRĂM TRIỆU MỖI THÁNG. KHÓA HỌC 2 TRONG 1, HƯỚNG DẪN CỤ THỂ THAO TÁC TRÊN WEBSITE & APP TRÊN ĐIỆN THOẠI. PHÙ HỢP CHO CẢ CÁC BẠN KHÔNG CÓ LAPTOP. Mỗi bài giảng được chia làm 2 phần, Phần mô tả, giải thích keyword quan trọng, và phần thao tác mẫu. Đảm bảo các bạn KHÔNG BIẾT TIẾNG TRUNG VẪN THÀNH THẠO NHẬP HÀNG, HÀNH NGHỀ ORDER. KẾT QUẢ CÁC BẠN ĐẠT ĐƯỢC SAU KHÓA HỌC: _Tự Mua hàng Taobao/1688 không tốn phí mua hộ 3 đến 5%/ đơn hàng _Lấy được voucher/ chiết khấu trên khi mua hàng Taobao/1688 _Tích xu đổi tiền tệ, tích lũy thanh toán lên tài khoản VIP để hưởng nhiều ưu đãi từ Taobao/1688. _Trực tiếp chat với shop bên Taobao/1688 để mặc cả, thương lượng, không cần biết tiếng Trung. _Trực tiếp thanh toán bằng tài khoản alipay.",
       "price": 1599000,
